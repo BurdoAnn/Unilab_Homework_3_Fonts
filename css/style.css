@@ -1,0 +1,93 @@
+/*section1ქართული ფონტები*/
+
+.block-h1-geo{
+
+	display: inline-block;
+	vertical-align: top;
+	margin: 50px 543px 21px 43px;
+	width: 780px;
+	height: 27px;
+	box-sizing: inherit;
+	font-size: 20px;
+	font-family: 'BPG Nino Mtavruli';
+}
+
+.block-image-geo{
+	display: inline-block;
+	vertical-align: top;
+	margin: 18px 39px 298px 43px;
+}
+
+.block-p-geo{
+	display: inline-block;
+	vertical-align: top;
+	margin: 21px 85px 144px 39px;
+	width: 929px;
+	height: 360px;
+	box-sizing: inherit;
+}
+
+/*აბსოლუტური გზა*/
+
+/*BPGIngiriArial-ეს ფონტი არ მოიძებნა web.font.ge-ზე ამიტომ BPG Arial-ით გავაკეთე*/
+
+.p-geo1{
+	padding: 0px 0px 9px 0px;
+	font-size: 16px;
+	font-family: "BPG Arial", sans-serif;
+}
+
+/*რელატიური გზა*/
+
+.p-geo2{
+	padding: 9px 0px 0px 0px;
+	font-size: 16px;
+	font-family: 'BPG Arial';
+}
+
+/*section2ლათინური ფონტები*/
+
+.block-h1-lat{
+
+	display: inline-block;
+	vertical-align: top;
+	margin: 50px 543px 21px 43px;
+	width: 780px;
+	height: 27px;
+	box-sizing: inherit;
+	font-size: 20px;
+	font-family: 'BPG Nino Mtavruli';
+}
+
+.block-image-lat{
+	display: inline-block;
+	vertical-align: top;
+	margin: 18px 39px 298px 43px;
+}
+
+.block-p-lat{
+	display: inline-block;
+	vertical-align: top;
+	margin: 21px 85px 144px 39px;
+	width: 929px;
+	height: 360px;
+	box-sizing: inherit;
+}
+
+/*აბსოლუტური გზა*/
+
+/*BPGIngiriArial-ეს ფონტი არ მოიძებნა https://fonts.google.com-ზე ამიტომ Roboto-თი გავაკეთე*/
+
+.p-lat1{
+	padding: 0px 0px 9px 0px;
+	font-size: 16px;
+	font-family: 'Roboto', sans-serif;
+}
+
+/*რელატიური გზა*/
+
+.p-lat2{
+	padding: 9px 0px 0px 0px;
+	font-size: 16px;
+	font-family: 'Roboto';
+}
